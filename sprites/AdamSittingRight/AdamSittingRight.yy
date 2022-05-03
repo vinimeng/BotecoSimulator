@@ -1,8 +1,48 @@
 {
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 10,
+  "bbox_right": 43,
+  "bbox_top": 4,
+  "bbox_bottom": 49,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 48,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"b288faac-632f-4fb9-a5b8-33aee0fa0d48","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b288faac-632f-4fb9-a5b8-33aee0fa0d48","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"b288faac-632f-4fb9-a5b8-33aee0fa0d48","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"194d0528-f70c-4a47-943d-dcf8a386b2a2","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"194d0528-f70c-4a47-943d-dcf8a386b2a2","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"194d0528-f70c-4a47-943d-dcf8a386b2a2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"60586cd7-9e88-40c9-a885-ff0b67f4be01","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"60586cd7-9e88-40c9-a885-ff0b67f4be01","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"60586cd7-9e88-40c9-a885-ff0b67f4be01","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7c4dbc17-9714-4f5e-b243-36147b513e49","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7c4dbc17-9714-4f5e-b243-36147b513e49","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"7c4dbc17-9714-4f5e-b243-36147b513e49","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f2c35e3f-d133-4666-81e6-6aab24e98e36","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f2c35e3f-d133-4666-81e6-6aab24e98e36","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"f2c35e3f-d133-4666-81e6-6aab24e98e36","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f0e2e313-6291-4180-8be6-fed62acb80ae","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f0e2e313-6291-4180-8be6-fed62acb80ae","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"f0e2e313-6291-4180-8be6-fed62acb80ae","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
   "sequence": {
     "spriteId": {"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},
     "timeUnits": 1,
@@ -44,53 +84,13 @@
     "tags": [],
     "resourceType": "GMSequence",
   },
-  "bboxMode": 0,
-  "collisionKind": 1,
-  "type": 0,
-  "origin": 4,
-  "preMultiplyAlpha": false,
-  "edgeFiltering": false,
-  "collisionTolerance": 0,
-  "swfPrecision": 2.525,
-  "bbox_left": 10,
-  "bbox_right": 43,
-  "bbox_top": 4,
-  "bbox_bottom": 49,
-  "HTile": false,
-  "VTile": false,
-  "For3D": false,
-  "width": 48,
-  "height": 64,
-  "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
-  "frames": [
-    {"compositeImage":{"FrameId":{"name":"b288faac-632f-4fb9-a5b8-33aee0fa0d48","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b288faac-632f-4fb9-a5b8-33aee0fa0d48","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"b288faac-632f-4fb9-a5b8-33aee0fa0d48","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"194d0528-f70c-4a47-943d-dcf8a386b2a2","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"194d0528-f70c-4a47-943d-dcf8a386b2a2","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"194d0528-f70c-4a47-943d-dcf8a386b2a2","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"60586cd7-9e88-40c9-a885-ff0b67f4be01","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"60586cd7-9e88-40c9-a885-ff0b67f4be01","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"60586cd7-9e88-40c9-a885-ff0b67f4be01","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7c4dbc17-9714-4f5e-b243-36147b513e49","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7c4dbc17-9714-4f5e-b243-36147b513e49","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"7c4dbc17-9714-4f5e-b243-36147b513e49","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f2c35e3f-d133-4666-81e6-6aab24e98e36","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f2c35e3f-d133-4666-81e6-6aab24e98e36","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"f2c35e3f-d133-4666-81e6-6aab24e98e36","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f0e2e313-6291-4180-8be6-fed62acb80ae","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f0e2e313-6291-4180-8be6-fed62acb80ae","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"LayerId":{"name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamSittingRight","path":"sprites/AdamSittingRight/AdamSittingRight.yy",},"resourceVersion":"1.0","name":"f0e2e313-6291-4180-8be6-fed62acb80ae","tags":[],"resourceType":"GMSpriteFrame",},
-  ],
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"20b1fb21-f6af-43e2-96f5-d623e3b7b0f4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Adam",
-    "path": "folders/Scripts/Adam.yy",
+    "path": "folders/Sprites/Adam.yy",
   },
   "resourceVersion": "1.0",
   "name": "AdamSittingRight",

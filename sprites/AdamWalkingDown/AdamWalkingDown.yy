@@ -1,8 +1,48 @@
 {
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 31,
+  "bbox_top": 0,
+  "bbox_bottom": 47,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 32,
+  "height": 48,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"994a6f96-34c3-4838-a407-c87b502b25ac","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"994a6f96-34c3-4838-a407-c87b502b25ac","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"994a6f96-34c3-4838-a407-c87b502b25ac","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"46c4901f-f269-42e6-92d5-627d31d0c21b","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"46c4901f-f269-42e6-92d5-627d31d0c21b","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"46c4901f-f269-42e6-92d5-627d31d0c21b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1a196e17-7983-4cda-8e41-363c11d793e7","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1a196e17-7983-4cda-8e41-363c11d793e7","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"1a196e17-7983-4cda-8e41-363c11d793e7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"70aaf941-add6-4bb1-9501-3d9c07d35538","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"70aaf941-add6-4bb1-9501-3d9c07d35538","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"70aaf941-add6-4bb1-9501-3d9c07d35538","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"390ccf20-d94c-4996-9926-0dfb0a23ddaf","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"390ccf20-d94c-4996-9926-0dfb0a23ddaf","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"390ccf20-d94c-4996-9926-0dfb0a23ddaf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8378ecea-f776-4200-93a6-efca76f4f91d","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8378ecea-f776-4200-93a6-efca76f4f91d","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"8378ecea-f776-4200-93a6-efca76f4f91d","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
   "sequence": {
     "spriteId": {"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},
     "timeUnits": 1,
@@ -44,53 +84,13 @@
     "tags": [],
     "resourceType": "GMSequence",
   },
-  "bboxMode": 0,
-  "collisionKind": 1,
-  "type": 0,
-  "origin": 4,
-  "preMultiplyAlpha": false,
-  "edgeFiltering": false,
-  "collisionTolerance": 0,
-  "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 31,
-  "bbox_top": 0,
-  "bbox_bottom": 47,
-  "HTile": false,
-  "VTile": false,
-  "For3D": false,
-  "width": 32,
-  "height": 48,
-  "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
-  "frames": [
-    {"compositeImage":{"FrameId":{"name":"994a6f96-34c3-4838-a407-c87b502b25ac","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"994a6f96-34c3-4838-a407-c87b502b25ac","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"994a6f96-34c3-4838-a407-c87b502b25ac","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"46c4901f-f269-42e6-92d5-627d31d0c21b","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"46c4901f-f269-42e6-92d5-627d31d0c21b","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"46c4901f-f269-42e6-92d5-627d31d0c21b","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"1a196e17-7983-4cda-8e41-363c11d793e7","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1a196e17-7983-4cda-8e41-363c11d793e7","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"1a196e17-7983-4cda-8e41-363c11d793e7","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"70aaf941-add6-4bb1-9501-3d9c07d35538","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"70aaf941-add6-4bb1-9501-3d9c07d35538","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"70aaf941-add6-4bb1-9501-3d9c07d35538","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"390ccf20-d94c-4996-9926-0dfb0a23ddaf","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"390ccf20-d94c-4996-9926-0dfb0a23ddaf","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"390ccf20-d94c-4996-9926-0dfb0a23ddaf","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8378ecea-f776-4200-93a6-efca76f4f91d","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8378ecea-f776-4200-93a6-efca76f4f91d","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"LayerId":{"name":"227a4ada-fc18-49f9-8690-24843730a6f6","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingDown","path":"sprites/AdamWalkingDown/AdamWalkingDown.yy",},"resourceVersion":"1.0","name":"8378ecea-f776-4200-93a6-efca76f4f91d","tags":[],"resourceType":"GMSpriteFrame",},
-  ],
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"227a4ada-fc18-49f9-8690-24843730a6f6","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Adam",
-    "path": "folders/Scripts/Adam.yy",
+    "path": "folders/Sprites/Adam.yy",
   },
   "resourceVersion": "1.0",
   "name": "AdamWalkingDown",

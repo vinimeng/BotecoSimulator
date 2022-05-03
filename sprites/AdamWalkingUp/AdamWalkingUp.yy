@@ -1,8 +1,48 @@
 {
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 31,
+  "bbox_top": 0,
+  "bbox_bottom": 47,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 32,
+  "height": 48,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"0bc89ff3-8a15-4d5d-822e-e286b1db0ae9","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0bc89ff3-8a15-4d5d-822e-e286b1db0ae9","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"0bc89ff3-8a15-4d5d-822e-e286b1db0ae9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"766e6653-eec1-4bc5-9c7b-bdb29d0ecf6a","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"766e6653-eec1-4bc5-9c7b-bdb29d0ecf6a","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"766e6653-eec1-4bc5-9c7b-bdb29d0ecf6a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c0fa1b48-838a-4060-ad01-c7f682852c85","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c0fa1b48-838a-4060-ad01-c7f682852c85","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"c0fa1b48-838a-4060-ad01-c7f682852c85","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"09b304f1-d152-430a-933c-83d7a587b346","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"09b304f1-d152-430a-933c-83d7a587b346","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"09b304f1-d152-430a-933c-83d7a587b346","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"79fbc0a1-5634-4d6a-8d83-fae0f98db0cb","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"79fbc0a1-5634-4d6a-8d83-fae0f98db0cb","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"79fbc0a1-5634-4d6a-8d83-fae0f98db0cb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7b1ba5fb-01b0-49ff-b926-c181805d38be","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7b1ba5fb-01b0-49ff-b926-c181805d38be","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"7b1ba5fb-01b0-49ff-b926-c181805d38be","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
   "sequence": {
     "spriteId": {"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},
     "timeUnits": 1,
@@ -44,53 +84,13 @@
     "tags": [],
     "resourceType": "GMSequence",
   },
-  "bboxMode": 0,
-  "collisionKind": 1,
-  "type": 0,
-  "origin": 4,
-  "preMultiplyAlpha": false,
-  "edgeFiltering": false,
-  "collisionTolerance": 0,
-  "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 31,
-  "bbox_top": 0,
-  "bbox_bottom": 47,
-  "HTile": false,
-  "VTile": false,
-  "For3D": false,
-  "width": 32,
-  "height": 48,
-  "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
-  "frames": [
-    {"compositeImage":{"FrameId":{"name":"0bc89ff3-8a15-4d5d-822e-e286b1db0ae9","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"0bc89ff3-8a15-4d5d-822e-e286b1db0ae9","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"0bc89ff3-8a15-4d5d-822e-e286b1db0ae9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"766e6653-eec1-4bc5-9c7b-bdb29d0ecf6a","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"766e6653-eec1-4bc5-9c7b-bdb29d0ecf6a","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"766e6653-eec1-4bc5-9c7b-bdb29d0ecf6a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c0fa1b48-838a-4060-ad01-c7f682852c85","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c0fa1b48-838a-4060-ad01-c7f682852c85","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"c0fa1b48-838a-4060-ad01-c7f682852c85","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"09b304f1-d152-430a-933c-83d7a587b346","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"09b304f1-d152-430a-933c-83d7a587b346","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"09b304f1-d152-430a-933c-83d7a587b346","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"79fbc0a1-5634-4d6a-8d83-fae0f98db0cb","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"79fbc0a1-5634-4d6a-8d83-fae0f98db0cb","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"79fbc0a1-5634-4d6a-8d83-fae0f98db0cb","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7b1ba5fb-01b0-49ff-b926-c181805d38be","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7b1ba5fb-01b0-49ff-b926-c181805d38be","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"LayerId":{"name":"abc412b4-b52a-48c3-8a47-5489d743dabe","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"AdamWalkingUp","path":"sprites/AdamWalkingUp/AdamWalkingUp.yy",},"resourceVersion":"1.0","name":"7b1ba5fb-01b0-49ff-b926-c181805d38be","tags":[],"resourceType":"GMSpriteFrame",},
-  ],
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"abc412b4-b52a-48c3-8a47-5489d743dabe","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Adam",
-    "path": "folders/Scripts/Adam.yy",
+    "path": "folders/Sprites/Adam.yy",
   },
   "resourceVersion": "1.0",
   "name": "AdamWalkingUp",
