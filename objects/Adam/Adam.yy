@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "AdamWalkingDown",
-    "path": "sprites/AdamWalkingDown/AdamWalkingDown.yy",
+    "name": "AdamIdle",
+    "path": "sprites/AdamIdle/AdamIdle.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,12 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "NPC",
-    "path": "folders/Objects/NPC.yy",
+    "name": "Player",
+    "path": "folders/Objects/Player.yy",
   },
   "resourceVersion": "1.0",
   "name": "Adam",
