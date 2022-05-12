@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"74b96ccf-5e0c-46b8-ad5c-ef65e536db08","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"74b96ccf-5e0c-46b8-ad5c-ef65e536db08","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"LayerId":{"name":"2e8147a5-83b7-4398-8e39-e64530eb26a6","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Interiors3DWalls","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"resourceVersion":"1.0","name":"74b96ccf-5e0c-46b8-ad5c-ef65e536db08","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e854ef53-3699-4124-bdf0-dcc0e0fa6197","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e854ef53-3699-4124-bdf0-dcc0e0fa6197","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"LayerId":{"name":"e5cab438-8543-4112-ac2d-4a183fbd42ce","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Interiors3DWalls","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"resourceVersion":"1.0","name":"e854ef53-3699-4124-bdf0-dcc0e0fa6197","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Interiors3DWalls","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6ab9c9ba-b8ef-48f2-ad17-d99e71e1836d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"74b96ccf-5e0c-46b8-ad5c-ef65e536db08","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4656b01b-428a-4adf-a10e-2ea887ef95b8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e854ef53-3699-4124-bdf0-dcc0e0fa6197","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2e8147a5-83b7-4398-8e39-e64530eb26a6","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e5cab438-8543-4112-ac2d-4a183fbd42ce","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
