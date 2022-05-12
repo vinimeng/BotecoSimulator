@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "MenuText",
-    "path": "sprites/MenuText/MenuText.yy",
+    "name": "MenuTitle",
+    "path": "sprites/MenuTitle/MenuTitle.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Text.yy",
   },
   "resourceVersion": "1.0",
-  "name": "MenuSimulator",
+  "name": "MenuBotecoSimulator",
   "tags": [],
   "resourceType": "GMObject",
 }
