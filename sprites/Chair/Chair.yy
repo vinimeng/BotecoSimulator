@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Kitchen_Singles_Shadowless_32x32_284/Kitchen_Singles_Shadowless_32x32_284.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Kitchen_Singles_Shadowless_32x32_284/Kitchen_Singles_Shadowless_32x32_284.yy",},"LayerId":{"name":"fdba657a-ed6d-4432-a3d7-5905883dfde7","path":"sprites/Kitchen_Singles_Shadowless_32x32_284/Kitchen_Singles_Shadowless_32x32_284.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Kitchen_Singles_Shadowless_32x32_284","path":"sprites/Kitchen_Singles_Shadowless_32x32_284/Kitchen_Singles_Shadowless_32x32_284.yy",},"resourceVersion":"1.0","name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Chair/Chair.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Chair/Chair.yy",},"LayerId":{"name":"fdba657a-ed6d-4432-a3d7-5905883dfde7","path":"sprites/Chair/Chair.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Chair","path":"sprites/Chair/Chair.yy",},"resourceVersion":"1.0","name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Kitchen_Singles_Shadowless_32x32_284","path":"sprites/Kitchen_Singles_Shadowless_32x32_284/Kitchen_Singles_Shadowless_32x32_284.yy",},
+    "spriteId": {"name":"Chair","path":"sprites/Chair/Chair.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a5c1aea7-347f-4491-8799-cfadc5b4ab06","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Kitchen_Singles_Shadowless_32x32_284/Kitchen_Singles_Shadowless_32x32_284.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a5c1aea7-347f-4491-8799-cfadc5b4ab06","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Chair/Chair.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Kitchen_Singles_Shadowless_32x32_284","path":"sprites/Kitchen_Singles_Shadowless_32x32_284/Kitchen_Singles_Shadowless_32x32_284.yy",},
+    "parent": {"name":"Chair","path":"sprites/Chair/Chair.yy",},
     "resourceVersion": "1.4",
-    "name": "Kitchen_Singles_Shadowless_32x32_284",
+    "name": "Chair",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Furniture.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Kitchen_Singles_Shadowless_32x32_284",
+  "name": "Chair",
   "tags": [],
   "resourceType": "GMSprite",
 }
