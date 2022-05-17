@@ -90,7 +90,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Adam",
-    "path": "folders/Sprites/NPC/Adam.yy",
+    "path": "folders/Sprites/Characters/Adam.yy",
   },
   "resourceVersion": "1.0",
   "name": "AdamWalkingDown",

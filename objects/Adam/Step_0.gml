@@ -7,8 +7,10 @@ keyNoKey = keyboard_check(vk_nokey);
 horizontalSpeed = (keyRight - keyLeft) * walkingSpeed;
 verticalSpeed = (keyDown - keyUp) * walkingSpeed;
 
-x += horizontalSpeed;
-y += verticalSpeed;
+if (CanWalk(horizontalSpeed, verticalSpeed, "Collision")) {
+	x += horizontalSpeed;
+	y += verticalSpeed;
+}
 
 if (keyRight) {
     image_speed = walkingSpeed / 3;
