@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "FakeMouseSprite",
-    "path": "sprites/FakeMouseSprite/FakeMouseSprite.yy",
+    "name": "ChairR",
+    "path": "sprites/ChairR/ChairR.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Furniture",
+    "path": "folders/Objects/Furniture.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Mouse",
+  "name": "ChairRight",
   "tags": [],
   "resourceType": "GMObject",
 }

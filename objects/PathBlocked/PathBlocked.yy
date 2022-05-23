@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "FakeMouseSprite",
-    "path": "sprites/FakeMouseSprite/FakeMouseSprite.yy",
+    "name": "Mask",
+    "path": "sprites/Mask/Mask.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "BlockPath",
+    "path": "folders/Objects/BlockPath.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Mouse",
+  "name": "PathBlocked",
   "tags": [],
   "resourceType": "GMObject",
 }

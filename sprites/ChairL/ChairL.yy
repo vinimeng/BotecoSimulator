@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 2,
-  "bbox_right": 27,
-  "bbox_top": 34,
-  "bbox_bottom": 75,
+  "bbox_left": 0,
+  "bbox_right": 25,
+  "bbox_top": 0,
+  "bbox_bottom": 41,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
-  "height": 96,
+  "width": 26,
+  "height": 42,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Chair/Chair.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Chair/Chair.yy",},"LayerId":{"name":"fdba657a-ed6d-4432-a3d7-5905883dfde7","path":"sprites/Chair/Chair.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Chair","path":"sprites/Chair/Chair.yy",},"resourceVersion":"1.0","name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/ChairL/ChairL.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/ChairL/ChairL.yy",},"LayerId":{"name":"fdba657a-ed6d-4432-a3d7-5905883dfde7","path":"sprites/ChairL/ChairL.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ChairL","path":"sprites/ChairL/ChairL.yy",},"resourceVersion":"1.0","name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Chair","path":"sprites/Chair/Chair.yy",},
+    "spriteId": {"name":"ChairL","path":"sprites/ChairL/ChairL.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a5c1aea7-347f-4491-8799-cfadc5b4ab06","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/Chair/Chair.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"66cb05b7-746f-43e5-bf82-b5c8cff0e035","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ce09ea8-a275-4a1f-9e1e-1313907b1bd0","path":"sprites/ChairL/ChairL.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Chair","path":"sprites/Chair/Chair.yy",},
+    "parent": {"name":"ChairL","path":"sprites/ChairL/ChairL.yy",},
     "resourceVersion": "1.4",
-    "name": "Chair",
+    "name": "ChairL",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Furniture.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Chair",
+  "name": "ChairL",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -1,10 +1,7 @@
-function CanWalk(nextX, nextY, layer){
-	var layerId = layer_get_id("Collision");
-	var collisionTileMap = layer_tilemap_get_id(layerId);
-	
-	var data = tilemap_get_at_pixel(map_id, x, y);
-	
-	
-	
-	return false;
+function CanWalk(obj, nextX, nextY, path){
+    with (obj) {
+        if (mp_grid_path(global.BotecoGrid, path, obj.x, obj.y, nextX, nextY, true)) {
+            path_start(path, 3.5, path_action_stop, 0);
+        }
+    }
 }
