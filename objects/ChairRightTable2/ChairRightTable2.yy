@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Table4Chairs",
-    "path": "objects/Table4Chairs/Table4Chairs.yy",
+    "name": "Table2ChairsRight",
+    "path": "objects/Table2ChairsRight/Table2ChairsRight.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Furniture.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ChairRight",
+  "name": "ChairRightTable2",
   "tags": [],
   "resourceType": "GMObject",
 }

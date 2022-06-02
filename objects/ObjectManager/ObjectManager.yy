@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "ChairR",
-    "path": "sprites/ChairR/ChairR.yy",
+    "name": "ObjectManagerSprite",
+    "path": "sprites/ObjectManagerSprite/ObjectManagerSprite.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "Table4Chairs",
-    "path": "objects/Table4Chairs/Table4Chairs.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Furniture",
-    "path": "folders/Objects/Furniture.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ChairRight",
+  "name": "ObjectManager",
   "tags": [],
   "resourceType": "GMObject",
 }
