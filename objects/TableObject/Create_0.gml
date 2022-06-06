@@ -1,0 +1,10 @@
+chairTopLeft = instance_position(x - 21, y + 21, ChairObject);
+chairBottomLeft = instance_position(x - 21, y + 53, ChairObject);
+chairTopRight = instance_position(x + 81, y + 21, ChairObject);
+chairBottomRight = instance_position(x + 81, y + 53, ChairObject);
+twoChairsTable = false;
+chairTopLeftOccupied = false;
+chairBottomLeftOccupied = false;
+chairTopRightOccupied = false;
+chairBottomRightOccupied = false;
+occupied = false;

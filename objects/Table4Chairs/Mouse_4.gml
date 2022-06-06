@@ -1,1 +1,0 @@
-chairTopLeft.x += 20;
