@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 1,
-  "bbox_right": 13,
-  "bbox_top": 3,
-  "bbox_bottom": 12,
+  "bbox_left": 0,
+  "bbox_right": 15,
+  "bbox_top": 1,
+  "bbox_bottom": 15,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b7dcd05a-2f9e-4eff-a2dc-b47887153d94","path":"sprites/FrenchFries/FrenchFries.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b7dcd05a-2f9e-4eff-a2dc-b47887153d94","path":"sprites/FrenchFries/FrenchFries.yy",},"LayerId":{"name":"a81ff9ad-cd0e-48d2-ba82-f80d8a50f5fc","path":"sprites/FrenchFries/FrenchFries.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"FrenchFries","path":"sprites/FrenchFries/FrenchFries.yy",},"resourceVersion":"1.0","name":"b7dcd05a-2f9e-4eff-a2dc-b47887153d94","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2886f48b-e0c9-41ce-9737-a0c593a0076f","path":"sprites/FrenchFries/FrenchFries.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2886f48b-e0c9-41ce-9737-a0c593a0076f","path":"sprites/FrenchFries/FrenchFries.yy",},"LayerId":{"name":"daa5f9b0-c5ea-4af6-88d5-9870b5c5bf69","path":"sprites/FrenchFries/FrenchFries.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"FrenchFries","path":"sprites/FrenchFries/FrenchFries.yy",},"resourceVersion":"1.0","name":"2886f48b-e0c9-41ce-9737-a0c593a0076f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"FrenchFries","path":"sprites/FrenchFries/FrenchFries.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a76ae647-2d88-481d-8473-140965f6ad1d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b7dcd05a-2f9e-4eff-a2dc-b47887153d94","path":"sprites/FrenchFries/FrenchFries.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"76317b81-9a82-4bc4-b652-35312910c0bf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2886f48b-e0c9-41ce-9737-a0c593a0076f","path":"sprites/FrenchFries/FrenchFries.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a81ff9ad-cd0e-48d2-ba82-f80d8a50f5fc","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"daa5f9b0-c5ea-4af6-88d5-9870b5c5bf69","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

@@ -61,6 +61,7 @@ global.possibleActions = [
     "Leave",
     "Nothing"
 ];
+global.foodDrinkLayer = layer_get_id("FoodDrink");
 
 global.creatingNPC = false;
 global.createNPCCooldown = false;

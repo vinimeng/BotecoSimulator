@@ -14,6 +14,7 @@ currentChairIdentifier = false;
 currentAction = "Nothing";
 executingAction = false;
 moving = false;
+cooldown = false;
 
 image_speed = 0;
 drawPath = false;
