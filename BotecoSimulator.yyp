@@ -42,6 +42,7 @@
     {"id":{"name":"MenuText","path":"sprites/MenuText/MenuText.yy",},"order":0,},
     {"id":{"name":"Saki","path":"sprites/Saki/Saki.yy",},"order":4,},
     {"id":{"name":"KitchenRefrigerator","path":"sprites/KitchenRefrigerator/KitchenRefrigerator.yy",},"order":10,},
+    {"id":{"name":"MostrarColisaoSprite","path":"sprites/MostrarColisaoSprite/MostrarColisaoSprite.yy",},"order":3,},
     {"id":{"name":"KitchenRangeHood","path":"sprites/KitchenRangeHood/KitchenRangeHood.yy",},"order":12,},
     {"id":{"name":"AlexIdle","path":"sprites/AlexIdle/AlexIdle.yy",},"order":0,},
     {"id":{"name":"KitchenCabinet","path":"sprites/KitchenCabinet/KitchenCabinet.yy",},"order":16,},
@@ -86,6 +87,7 @@
     {"id":{"name":"KitchenStove","path":"sprites/KitchenStove/KitchenStove.yy",},"order":11,},
     {"id":{"name":"FutilePro","path":"fonts/FutilePro/FutilePro.yy",},"order":0,},
     {"id":{"name":"Mask","path":"sprites/Mask/Mask.yy",},"order":0,},
+    {"id":{"name":"MostrarColisaoBtn","path":"objects/MostrarColisaoBtn/MostrarColisaoBtn.yy",},"order":3,},
     {"id":{"name":"InitiateTables","path":"scripts/InitiateTables/InitiateTables.yy",},"order":1,},
     {"id":{"name":"Interiors3DWalls","path":"sprites/Interiors3DWalls/Interiors3DWalls.yy",},"order":0,},
     {"id":{"name":"PizzaObject","path":"objects/PizzaObject/PizzaObject.yy",},"order":4,},
@@ -129,8 +131,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Boteco","path":"rooms/Boteco/Boteco.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Boteco","path":"rooms/Boteco/Boteco.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
